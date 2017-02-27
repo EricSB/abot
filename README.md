@@ -1,4 +1,4 @@
-#Abot [![Build Status](https://ci.appveyor.com/api/projects/status/b1ukruawvu6uujn0?svg=true)](https://ci.appveyor.com/project/sjdirect/abot)
+#Abot [![Build Status](https://ci.appveyor.com/api/projects/status/b1ukruawvu6uujn0/branch/master?svg=true)](https://ci.appveyor.com/project/sjdirect/abot)
 
 *Please star this project!!* Contact me with exciting opportunities!!
 
@@ -23,6 +23,7 @@ Abot is an open source C# web crawler built for speed and flexibility. It takes 
   * [Need expert Abot customization?](https://github.com/sjdirect/abot/wiki/Custom-Development)
   * [Take the usage survey](https://www.surveymonkey.com/s/JS5826F) to help prioritize features/improvements
   * [Consider making a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G6ZY6BZNBFVQJ)
+  * [ASP.NET Core support](https://github.com/sjdirect/abot-dotnet-core/tree/master)
   * [Unofficial Chinese Documentation](https://github.com/zixiliuyue/abot)
 
 ######Use [AbotX](http://abotx.org) for powerful extensions/wrappers
